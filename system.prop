@@ -1,0 +1,6 @@
+ro.display.series=Samsung Tab Active Pro 10.1
+ro.product.board=sdm710
+ro.board.platform=sdm710
+sys.usb.controller=a600000.dwc3
+#fbe.metadata.wrappedkey=true
+ro.boot.bootdevice=7c4000.sdhci
