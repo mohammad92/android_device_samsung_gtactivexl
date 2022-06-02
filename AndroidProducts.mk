@@ -15,4 +15,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/omni_gtactivexl.mk
+	$(LOCAL_DIR)/twrp_gtactivexl.mk
+
+COMMON_LUNCH_CHOICES := twrp_gtactivexl-eng
