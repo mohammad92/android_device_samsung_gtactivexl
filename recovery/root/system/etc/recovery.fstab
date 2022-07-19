@@ -44,7 +44,7 @@
 /dev/block/bootdevice/by-name/efs	/efs		ext4	defaults		recoveryonly
 /dev/block/bootdevice/by-name/sec_efs	/sec_efs	ext4	defaults		recoveryonly
 #/dev/block/bootdevice/by-name/carrier	/carrier	ext4	defaults		recoveryonly
-/dev/block/bootdevice/by-name/hidden	/preload	ext4	defaults		recoveryonly
+#/dev/block/bootdevice/by-name/hidden	/preload	ext4	defaults		recoveryonly
 
 
 #FOTA
